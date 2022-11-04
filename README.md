@@ -4,13 +4,13 @@ This is a basic calculator app for Android. I developed it to improve my Android
 In particular, I wanted to learn more about the combination of UI and logic in Android.
 
 <p align="center">
-    <img src="https://ucarecdn.com/78ebc978-8247-4f36-a2c0-95bb78b723db/" width="200" alt="Screenshot">
+    <img src="https://ucarecdn.com/78ebc978-8247-4f36-a2c0-95bb78b723db/ " width="200" alt="Screenshot">
 </p>
 
 ## Features
 
-The app is fairly self-explanatory. It supports the basic operations of addition, subtraction,
-multiplication and division. Division by zero is handled gracefully.
+The app is pretty self-explanatory. It supports the basic operations addition, subtraction,
+multiplication and division. Division by zero is handled elegantly.
 
 ## Installation
 
