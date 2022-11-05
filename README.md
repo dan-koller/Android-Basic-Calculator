@@ -25,7 +25,7 @@ _Note that the app targets Android 10 (API level 29)._
 
 ## Technologies
 
-The app is written in Kotlin and uses the Android SDK.
+The app is written in Kotlin and uses the Android SDK. Testing is done with Roboelectric and JUnit.
 
 ## License
 
