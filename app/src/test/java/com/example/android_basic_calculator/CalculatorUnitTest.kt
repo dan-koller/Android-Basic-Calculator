@@ -79,7 +79,7 @@ class CalculatorUnitTest {
 
 
         val message =
-            "Tried to add, got the wrong answer. Make sure the answer is not returned in Double when it is not necessary"
+            "Addition failed! Answer should not be returned in Double when it is not necessary"
         assertEquals(message, "125", actualText)
     }
 
@@ -108,7 +108,7 @@ class CalculatorUnitTest {
 
 
         val message =
-            "Tried to divide, got the wrong answer. Make sure the answer is returned in Double when it is necessary"
+            "Division failed! Answer should not be returned in Double when it is not necessary"
         assertEquals(message, "4.8", actualText)
     }
 
